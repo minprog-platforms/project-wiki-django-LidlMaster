@@ -1,8 +1,9 @@
-# Application Name
+# Wiki
 
-TODO: Describe your application here.
+A Simplistic version of an online encyclopedia like Wikipedia.
 
 
 ## Getting Started
 
-TODO: Describe steps to install requirements and get the application running.
+To get started a server will need to be run. To do this pull the files from this repository and enter python3 manage.py runserever.
+A link to the website will apear in terminal which will lead to the website.
